@@ -1,3 +1,3 @@
 echo "the LORD is good all the time"
 Pour ta sante mange 5 fruits et legumes par jour
-# Do not give up  
+# Do not give up because nothing good come easy.
